@@ -13,3 +13,4 @@ public class Pirâmide {
         System.out.println("a area total e: " + (areaBase + areaLateral));
     }
 }
+//SNK PRODUCTIONS
